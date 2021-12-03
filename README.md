@@ -4,9 +4,8 @@
 
 "A crisp SVG theme with an anime feel." - Upsided
 
-Original theme: [Download](https://github.com/upsided/Upsided-Sabaki-Themes).
-
-Removed animation theme: [Download](https://github.com/jdriselvato/Hikaru-2-Sabaki-Theme/raw/main/hikaru2.asar)
+- Original: [Download](https://github.com/upsided/Upsided-Sabaki-Themes)
+- Removed animation: [Download](https://github.com/jdriselvato/Hikaru-2-Sabaki-Theme/raw/main/hikaru2.asar)
 
 # Difference:
 - Hikaru theme from [Upsided Sabaki Themes](https://github.com/upsided/Upsided-Sabaki-Themes) but using the default Sabaki 2 placement animation.

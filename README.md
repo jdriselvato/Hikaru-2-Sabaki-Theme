@@ -3,8 +3,7 @@
 Original theme is credited to Upsided, [found here](https://github.com/upsided/Upsided-Sabaki-Themes).
 
 # Difference:
-- Hikaru theme from Upsided-Sabaki-Themes but without the placement animation. 
-- This theme uses the default Sabaki 2 placement animation.
+- Hikaru theme from Upsided-Sabaki-Themes but without the placement animation to use the default Sabaki 2 placement animation.
 
 # Default Animation
 

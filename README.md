@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/950825/144647878-598f48dd-7a7c-419a-82
 If you want to remove animations from the other Upsided themes, here's a quick breakdown of how I did it.
 
 Note: asar & npm need to be installed
-```
+```bash
 npm install -g asar
 ```
 
@@ -33,7 +33,7 @@ npm install -g asar
 4. In the `theme` folder edit the `styles.css` file
 5. Remove the following lines:
 
-```
+```css
 /* ANIMATIONS */
 /* make the markers wait until stone arrives*/
 @keyframes marker-wait {

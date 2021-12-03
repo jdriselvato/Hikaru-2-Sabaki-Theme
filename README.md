@@ -12,4 +12,4 @@ https://user-images.githubusercontent.com/950825/144647878-598f48dd-7a7c-419a-82
 
 A crisp SVG theme with an anime feel.
 
-[Download]()
+[Download](https://github.com/jdriselvato/Hikaru-2-Sabaki-Theme/blob/main/hikaru2.asar)

@@ -1,5 +1,7 @@
 # Hikaru 2 - Sabaki Theme
 
+![hikaru-screenshot](https://user-images.githubusercontent.com/950825/144652487-cf748c64-48a2-4056-bb7a-4556babdd0ab.jpg)
+
 Original theme is credited to Upsided, [found here](https://github.com/upsided/Upsided-Sabaki-Themes).
 
 # Difference:

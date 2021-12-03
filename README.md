@@ -19,7 +19,7 @@ A crisp SVG theme with an anime feel.
 
 # Removing Animations
 
-If you want to rmeove animations from the other Upsided themes, here's a quick breakdown of how I did it.
+If you want to remove animations from the other Upsided themes, here's a quick breakdown of how I did it.
 
 Note: asar & npm need to be installed
 ```
@@ -27,7 +27,7 @@ npm install -g asar
 ```
 
 1. Download the Theme
-2. unpack the theme in terminal with `npx asar extract hikaru.asar ./theme`
+2. Unpack the theme in terminal with `npx asar extract hikaru.asar ./theme`
 3. All the files will be extracted in a folder called `theme`
 4. In the `theme` folder edit the `styles.css` file
 5. Remove the following lines:
